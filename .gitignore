@@ -1,0 +1,9 @@
+# Local Claude settings (machine-specific, contains paths)
+.claude/settings.local.json
+
+# Today's rolling edit log (archived daily, not committed mid-day)
+50_Claude/Sessions/_today-edits.md
+
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
